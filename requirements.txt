@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+langchain
+faiss-cpu
+ipywidgets
+transformers
